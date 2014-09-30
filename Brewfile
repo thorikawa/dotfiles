@@ -28,6 +28,7 @@ install pkg-config
 install python
 install repo
 install sqlite
+install tig
 install wget
 
 # cask install
