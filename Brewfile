@@ -50,6 +50,7 @@ cask install iterm2
 cask install java
 cask install mongodb
 cask install onepassword
+cask install seashore
 cask install silverlight
 cask install skitch
 cask install skype
