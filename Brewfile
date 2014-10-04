@@ -2,6 +2,7 @@ update
 upgrade
 
 tap caskroom/cask || true
+tap caskroom/versions || true
 install brew-cask
 
 install ack
@@ -49,6 +50,7 @@ cask install google-japanese-ime
 cask install intellij-idea
 cask install iterm2
 cask install java
+cask install java7
 cask install mongodb
 cask install onepassword
 cask install seashore
