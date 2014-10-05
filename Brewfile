@@ -39,6 +39,7 @@ cask install android-studio
 cask install arduino
 cask install atom
 cask install charles
+cask install chefdk
 cask install coteditor
 cask install dropbox
 cask install evernote
@@ -47,7 +48,7 @@ cask install genymotion
 cask install github
 cask install google-chrome
 cask install google-japanese-ime
-cask install intellij-idea
+cask install intellij-idea-ce
 cask install iterm2
 cask install java
 cask install java7
