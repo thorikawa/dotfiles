@@ -23,6 +23,7 @@ install libexif
 install libtool
 install maven
 install mercurial
+install mongodb
 install node
 install openssl
 install pkg-config
@@ -52,7 +53,6 @@ cask install intellij-idea-ce
 cask install iterm2
 cask install java
 cask install java7
-cask install mongodb
 cask install onepassword
 cask install seashore
 cask install silverlight
