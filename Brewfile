@@ -9,6 +9,7 @@ install ack
 install ant
 install autoconf
 install automake
+install awscli
 install boost
 install cmake
 install ffmpeg
@@ -43,6 +44,7 @@ cask install charles
 cask install chefdk
 cask install coteditor
 cask install dropbox
+cask install eclipse-java
 cask install evernote
 cask install firefox
 cask install genymotion
