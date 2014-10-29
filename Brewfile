@@ -17,6 +17,7 @@ install freetype
 install git
 install gradle
 install hub
+install imagemagick
 install jq
 install leveldb
 install libev
