@@ -31,6 +31,7 @@ install openssl
 install pkg-config
 install python
 install repo
+install rhino
 install sqlite
 install tesseract
 install tig
