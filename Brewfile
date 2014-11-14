@@ -26,6 +26,7 @@ install libtool
 install maven
 install mercurial
 install mongodb
+install mysql
 install node
 install openssl
 install pkg-config
