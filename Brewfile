@@ -3,6 +3,7 @@ upgrade
 
 tap caskroom/cask || true
 tap caskroom/versions || true
+tap homebrew/dupes || true
 install brew-cask
 
 install ack
@@ -15,6 +16,7 @@ install cmake
 install ffmpeg
 install freetype
 install git
+install gdb
 install gradle
 install hub
 install imagemagick
