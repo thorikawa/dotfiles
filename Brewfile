@@ -8,6 +8,7 @@ brew upgrade
 brew tap caskroom/cask || true
 brew tap caskroom/versions || true
 brew tap homebrew/dupes || true
+brew tap homebrew/science || true
 brew install brew-cask
 
 brew install ack
@@ -17,7 +18,9 @@ brew install automake
 brew install awscli
 brew install boost
 brew install cmake
+brew install eigen
 brew install ffmpeg
+brew install flann
 brew install freetype
 brew install git
 brew install gdb
@@ -34,6 +37,11 @@ brew install mercurial
 brew install mongodb
 brew install mysql
 brew install node
+brew install ocaml
+brew cask install mactex # octave dependency
+brew install octave
+brew install openni
+brew install openni2
 brew install openssl
 brew install pkg-config
 brew install python
@@ -42,6 +50,7 @@ brew install rhino
 brew install sqlite
 brew install tesseract
 brew install tig
+brew install vtk5
 brew install wget
 
 # cask install
