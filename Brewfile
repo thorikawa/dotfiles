@@ -52,6 +52,7 @@ brew install tesseract
 brew install tig
 brew install vtk5
 brew install wget
+brew install zbar
 
 # cask install
 brew cask install adobe-reader
@@ -83,6 +84,7 @@ brew cask install slack
 brew cask install sourcetree
 brew cask install sublime-text
 brew cask install testflight
+brew cask install unity
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
