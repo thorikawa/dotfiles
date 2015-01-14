@@ -70,6 +70,7 @@ brew cask install genymotion
 brew cask install github
 brew cask install google-chrome
 brew cask install google-japanese-ime
+brew cask install imageoptim
 brew cask install intellij-idea-ce
 brew cask install inkscape
 brew cask install iterm2
