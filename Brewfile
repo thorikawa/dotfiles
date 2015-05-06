@@ -19,7 +19,7 @@ brew install awscli
 brew install boost
 brew install cmake
 brew install eigen
-brew install ffmpeg
+brew install ffmpeg --with-fdk-aac --with-libvorbis
 brew install flann
 brew install freetype
 brew install git
