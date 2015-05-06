@@ -47,6 +47,7 @@ brew install pkg-config
 brew install python
 brew install repo
 brew install rhino
+brew install sdl_mixer --with-libvorbis # for pygame music
 brew install sqlite
 brew install tesseract
 brew install tig
