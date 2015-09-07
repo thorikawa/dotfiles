@@ -38,8 +38,6 @@ brew install mongodb
 brew install mysql
 brew install node
 brew install ocaml
-brew cask install mactex # octave dependency
-brew install octave
 brew install openni
 brew install openni2
 brew install openssl
@@ -67,27 +65,23 @@ brew cask install dropbox
 brew cask install eclipse-java
 brew cask install evernote
 brew cask install firefox
-brew cask install genymotion
 brew cask install github
 brew cask install google-chrome
 brew cask install google-japanese-ime
 brew cask install heroku-toolbelt
 brew cask install imageoptim
 brew cask install intellij-idea-ce
-brew cask install inkscape
 brew cask install iterm2
 brew cask install java
 brew cask install java7
 brew cask install kindle
 brew cask install onepassword
 brew cask install seashore
-brew cask install silverlight
 brew cask install skitch
 brew cask install skype
 brew cask install slack
 brew cask install sourcetree
 brew cask install sublime-text
-brew cask install testflight
 brew cask install unity
 brew cask install vagrant
 brew cask install virtualbox
