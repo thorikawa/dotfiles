@@ -76,6 +76,7 @@ brew cask install java
 brew cask install java7
 brew cask install kindle
 brew cask install onepassword
+brew cask install p4merge
 brew cask install seashore
 brew cask install skitch
 brew cask install skype
