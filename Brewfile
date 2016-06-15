@@ -49,9 +49,7 @@ brew install sdl_mixer --with-libvorbis # for pygame music
 brew install sqlite
 brew install tesseract
 brew install tig
-brew install vtk5
 brew install wget
-brew install zbar
 
 # cask install
 brew cask install adobe-reader
