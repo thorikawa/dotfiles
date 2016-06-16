@@ -60,7 +60,6 @@ brew cask install coteditor
 brew cask install dropbox
 brew cask install evernote
 brew cask install firefox
-brew cask install github
 brew cask install google-chrome
 brew cask install google-japanese-ime
 brew cask install intellij-idea-ce
