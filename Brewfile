@@ -66,7 +66,7 @@ brew cask install intellij-idea-ce
 brew cask install iterm2
 brew cask install java
 brew cask install java7
-brew cask install onepassword
+brew cask install 1password
 brew cask install skitch
 brew cask install skype
 brew cask install slack
